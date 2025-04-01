@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mathglobal
+mathglobal.so
+mathglobal.dylib
+mathglobal.dll
+mathglobal.a
+mathglobal.lib
+mathglobal-test-*
+*.exe
+*.o
+*.obj
+*.lst
